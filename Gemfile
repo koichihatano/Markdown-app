@@ -19,7 +19,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
-gem 'redcarpet', '~> 2.3.0'
+gem 'redcarpet', '~> 3.5.1'
 gem 'coderay'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
